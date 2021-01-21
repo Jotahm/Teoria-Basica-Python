@@ -12,3 +12,11 @@ except: # creamos esta excepción para la operación que indica que nos devuelva
 print ("Primera operación" , operacion) # nos devuelve el código -1 con lo cual nos dice "la operación ha fallado"
 
 print ("He llegado hasta aquí a pesar de que fallase la operación")
+
+numero = (123)
+
+try: #ahora probaremos algo que si va a funcionar de manera que la excepción no se cumplirá
+    operacion_2 = int(numero)
+except:
+    operacion2 = "la operación 2 ha fallado"
+print (operacion_2)
