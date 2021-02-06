@@ -1,3 +1,5 @@
+# Pendiente de encajar en la cronología de la teoría
+
 x = 27
 numeros_en_rango =[]
 for numero in range(x):
