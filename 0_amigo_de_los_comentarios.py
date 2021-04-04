@@ -4,6 +4,7 @@
 # Sobre todo si lo lee otra persona que no somos nosotros mismos
 # Ejemplo del buen uso de comentarios: Aclaraciones
 
+
 # Definimos nuestras variables:
 numero1 = 10
 numero2 = 20
